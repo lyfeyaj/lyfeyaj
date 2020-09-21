@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lyfeyaj/lyfeyaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+I'm a technical leader on Dev team at Bamaying. I’m currently working on [Baiji(a nodejs rest api framework)](https://github.com/baijijs/baiji) and a [EWA(wechat mini program build tool)](https://github.com/lyfeyaj/ewa/), tons of other interesting [projects](./my-open-sources.md).
+
+![](https://visitor-badge.glitch.me/badge?page_id=lyfeyaj.lyfeyaj)
