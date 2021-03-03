@@ -16,11 +16,11 @@ Multipass 是一个轻量级 Linux 虚拟机命令行管理工具，支持 Linux
 
 ### Mac OS 安装
 
-#### 方法一: 可以直接下载安装包安装
+#### 方法一：可以直接下载安装包安装
 
 [点击下载 Multipass 安装包](https://multipass.run/download/macos)
 
-#### 方法二: 使用 Homebrew 安装
+#### 方法二：使用 Homebrew 安装
 
 > 没有安装 Homebrew? [点击这里安装 Homebrew](http://brew.sh/)
 
@@ -41,11 +41,11 @@ sudo snap install multipass
 
 ### Windows 10 安装
 
-#### 方法一: 可以直接下载安装包安装
+#### 方法一：可以直接下载安装包安装
 
 [点击下载 Multipass 安装包](https://multipass.run/download/windows)
 
-#### 方法二: 使用 Chocolatey 安装
+#### 方法二：使用 Chocolatey 安装
 
 > 没有安装 Chocolatey? [点击这里安装 Chocolatey](https://chocolatey.org/install)
 
