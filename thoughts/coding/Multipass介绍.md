@@ -98,7 +98,7 @@ multipass 命令行工具, 用于管理 ubuntu 实例。
 
 ## 五. 常见问题（以 MacOS 为例）
 
-### 问题一: 最开始设置的内存或 CPU 数量小了，想扩容，怎么办？
+### 问题一：最开始设置的内存或 CPU 数量小了，想扩容，怎么办？
 
 multipass 通过 `/var/root/Library/Application\ Support/multipassd/multipassd-vm-instances.json` 中的配置来管理实例，可直接在这个配置文件中修改：
 `mem_size` 来增加或减少内存
@@ -117,14 +117,14 @@ sudo launchctl unload /Library/LaunchDaemons/com.canonical.multipassd.plist
 sudo launchctl load /Library/LaunchDaemons/com.canonical.multipassd.plist
 ```
 
-### 问题二: 电脑意外关机，无法启动实例，怎么办？
+### 问题二：电脑意外关机，无法启动实例，怎么办？
 
 实例的启动关闭状态也维护在 `/var/root/Library/Application\ Support/multipassd/multipassd-vm-instances.json` 文件中的 `state` 字段，当电脑意外关机，`state` 字段不会被正确的维护，导致无法启动或关闭实例，这时候，可以先停止 multipassd 进程，然后手动到配置文件中修改 `state` 为 0，即关机状态，保存配置文件，并启动 multipassd 实例即可，这时候就可以正常启动各个实例了。
 
-### 问题三: 能安装 Cent OS 实例么？
+### 问题三：能安装 Cent OS 实例么？
 暂时不能，该工具为 Ubuntu 背后的公司 Canonical 开发，目前仅支持 Ubuntu 系统。
 
-### 问题四: 如果在实例之间传递文件？
+### 问题四：如果在实例之间传递文件？
 最简单的方式是通过挂载相同的文件夹到不同的实例中来共享文件。
 
 ## 参考
