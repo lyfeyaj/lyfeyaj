@@ -3,11 +3,7 @@
 
 ## 一. Multipass 是什么？
 
-Multipass 是一个轻量级Linux虚拟机管理器，支持 Linux、Windows 与 macOS，这是为希望使用单个命令提供全新 Ubuntu
-环境的开发人员而设计的。
-
-使用 Linux 上的 KVM、Windows 上的 Hyper-V 和 macOS 上的 HyperKit 来以最小的开销运行 VM，同时它还可以在
-Windows 和 macOS 上使用 VirtualBox。
+Multipass 是一个轻量级 Linux 虚拟机命令行管理工具，支持 Linux、Windows 与 macOS。
 
 
 ## 二. 为什么要用 Multipass
