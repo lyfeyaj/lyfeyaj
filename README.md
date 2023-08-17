@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I’m currently working on [Baiji(a nodejs rest api framework)](https://github.com/baijijs/baiji) and [EWA(a wechat mini program build tool)](https://github.com/lyfeyaj/ewa/), and many other interesting [projects](./my-open-sources.md).
-
-Here are some of my [thoughts](./thoughts/README.md) about coding/product/design.
-
-![](https://visitor-badge.glitch.me/badge?page_id=lyfeyaj.lyfeyaj)
+- 🔭 I’m currently working on [MorJS(Multi-Platform FrameWork)](https://github.com/eleme/morjs), and many other interesting [projects](./my-open-sources.md).
+- 🌱 I’m currently learning Rust & PyTorch.
+- 🤔 Here are some of my [thoughts](./thoughts/README.md) about coding/product/design.
