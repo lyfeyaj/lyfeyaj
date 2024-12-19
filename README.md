@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [MorJS(Multi-Platform FrameWork)](https://github.com/eleme/morjs), and many other interesting [projects](./my-open-sources.md).
+- 🔭 I’m currently working on [MorJS(Multi-Platform Framework)](https://github.com/eleme/morjs), and many other interesting [projects](./my-open-sources.md).
 - 🌱 I’m currently learning Rust & PyTorch.
 - 🤔 Here are some of my [thoughts](./thoughts/README.md) about coding/product/design.
